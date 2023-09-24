@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lenardatthebreakwater
-- 👀 I’m interested in programming, kpop and kdrama, anime, and taking care of my pets
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
