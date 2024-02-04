@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lenardatthebreakwater
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 👀 I enjoy programming and have a passion for learning new things
+- 🌱 Programming is very difficult but not impossible to learn, developing the discipline while also knowing when to take breaks is key  
