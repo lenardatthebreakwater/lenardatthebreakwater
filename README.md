@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lenardatthebreakwater
+- 👋 Hello, my name is Lenard
 - 👀 I enjoy programming and have a passion for learning new things
 - 🌱 Programming is very difficult but not impossible to learn, developing the discipline while also knowing when to take breaks is key  
 - 🔥 HTML is my favorite programming language
